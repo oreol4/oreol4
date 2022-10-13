@@ -1,6 +1,12 @@
 <div id="header" >
   <div id="header" align="left">
-    #
+    ###  Hi, my name is Andrey and I am backend developer from Sber.
+    
+    ## About me:
+    
+    - I am a student of school 42 (Moscow campus).
+    - Now I am doing an internship at Sberbank.
+    
   </div>
   <div id="header" align="right">
     <img src="https://media.giphy.com/media/gTnRh9sTFGDDbh092c/giphy.gif" width="200"/>
