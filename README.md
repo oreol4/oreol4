@@ -1,6 +1,6 @@
 <div id="header" >
   <div id="header" align="left">
-    <h1>  Hi, my name is Andrey and I am backend developer from Sber. </h1>
+    <h1>  Hello, my name`s Andrey Soldatov </h1>
     
     ## About me: ##
     
