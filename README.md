@@ -1,8 +1,8 @@
 <div id="header" >
   <div id="header" align="left">
-    ###  Hi, my name is Andrey and I am backend developer from Sber.
+    ###  Hi, my name is Andrey and I am backend developer from Sber. ###
     
-    ## About me:
+    ## About me: ##
     
     - I am a student of school 42 (Moscow campus).
     - Now I am doing an internship at Sberbank.
