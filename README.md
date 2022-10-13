@@ -4,8 +4,8 @@
 
 # Hello!  
 
-# My name`s Andrey Soldatov.
-    
+# My name is Andrey Soldatov.
+   
 ## About me: ##
     
 - I am a student of school 42 (Moscow campus).
